@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Base64_Proba</string>
+    <string name="result_encode_example_text"></string>
+    <string name="result_decode_example_text">Результат</string>
+</resources>
